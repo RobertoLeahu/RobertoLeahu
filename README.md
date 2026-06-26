@@ -12,9 +12,8 @@
 Soy un **Desarrollador de Software** graduado en el Grado Superior de DAM (Desarrollo de Aplicaciones Multiplataforma). Cuento con experiencia práctica en el diseño y despliegue de aplicaciones robustas utilizando el ecosistema **Java y Spring**, así como soluciones móviles e integraciones de APIs eficientes. Mi trasfondo técnico en sistemas y redes me permite aportar una visión global en todo el ciclo de desarrollo y despliegue.
 
 - **Actualmente enfocado en:** Mejorar mis habilidades de arquitectura de software, optimización de bases de datos y desarrollo backend.
-- **Aprendiendo continuamente:** [COMPLETAR: Menciona una tecnología que estés estudiando ahora, ej: Docker, AWS, Clean Architecture...]
+- **Aprendiendo continuamente:** Aprendiendo tecnologías como Docker, Swagger[COMPLETAR: Menciona una tecnología que estés estudiando ahora, ej: Docker, AWS, Clean Architecture...]
 - **Pregúntame sobre:** Java, Spring Boot, Flutter, persistencia de datos (SQL/Hibernate) y administración de sistemas.
-- **Dato curioso:** [COMPLETAR: Añade un hobby o dato personal, ej: Me apasionan los videojuegos de estrategia, me gusta el café de especialidad...]
 
 ---
 
@@ -56,26 +55,25 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
     *   Base de datos relacional para la gestión y persistencia de usuarios y mascotas.
     *   Sistema CRUD optimizado para la reserva y control de citas médicas.
     *   Módulo de autenticación segura implementado a través de Supabase Auth.
-*   🔗 [Código en GitHub](https://github.com/RobertoLeahu/VetNow)<!-- Ajusta el nombre si el repositorio se llama diferente -->
+*   🔗 [Código en GitHub](https://github.com/RobertoLeahu/VetNow)
 
 ### 2. 💳 Sistema de Transacciones Financieras y Gestión de Proyectos (SEIDOR)
-*   **Descripción:** Soluciones de software corporativo enfocadas en la seguridad transaccional y la optimización de recursos internos.
-*   **Stack:** Java, Spring Boot, PostgreSQL.
+*   **Descripción:** Sistema de Transacciones Financieras.
+*   **Stack:** Java, Spring Boot, H2 Database.
 *   **Características Clave:**
     *   Lógica de negocio robusta orientada al manejo seguro de datos sensibles y trazabilidad mediante logs.
-    *   Módulos internos para el control de presupuestos y asignación eficiente de recursos en proyectos.
-    *   Consumo e integración de la API externa de OpenMeteo con respuestas en tiempo real.
-*   🔗 [Código en GitHub](https://github.com/RobertoLeahu/[COMPLETAR: nombre-repositorio-si-es-publico])
+    *   Procesamiento Asíncrono y Concurrente para la gestión de transferencias individuales.
+    *   Concurrencia Avanzada Anti-Deadlocks para mitigar interbloqueos en transacciones simultáneas.
+    *   Motor de Fraude y Algoritmos de Grafos para el rechazo automático de operaciones sospechosas y detección de transacciones cíclicas.
+*   🔗 [Código en GitHub](https://github.com/RobertoLeahu/Sistema-de-Procesamiento-de-Transacciones-Financieras.git)
 
 ---
 
 ## 🤝 Conectemos
 
-Estoy siempre abierto a debatir sobre arquitectura backend, desarrollo multiplataforma o a evaluar nuevas oportunidades laborales.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-leahu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertooleahu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=leetcoding&logoColor=white)](https://[COMPLETAR: enlace-a-tu-web-o-borra-esta-linea])
 
 ---
 <p align="center">
