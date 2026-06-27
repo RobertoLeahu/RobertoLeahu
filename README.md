@@ -12,8 +12,8 @@
 Soy un **Desarrollador de Software** graduado en el Grado Superior de DAM (Desarrollo de Aplicaciones Multiplataforma). Cuento con experiencia práctica en el diseño y despliegue de aplicaciones robustas utilizando el ecosistema **Java y Spring**, así como soluciones móviles e integraciones de APIs eficientes. Mi trasfondo técnico en sistemas y redes me permite aportar una visión global en todo el ciclo de desarrollo y despliegue.
 
 - **Actualmente enfocado en:** Mejorar mis habilidades de arquitectura de software, optimización de bases de datos y desarrollo backend.
-- **Aprendiendo continuamente:** Aprendiendo tecnologías como Docker, Swagger[COMPLETAR: Menciona una tecnología que estés estudiando ahora, ej: Docker, AWS, Clean Architecture...]
-- **Pregúntame sobre:** Java, Spring Boot, Flutter, persistencia de datos (SQL/Hibernate) y administración de sistemas.
+- **Aprendiendo continuamente:** Explorando arquitecturas orientadas a eventos mediante el uso de RabbitMQ como broker de mensajería y la contenerización de microservicios con Docker.
+- **Pregúntame sobre:** Java, Spring Boot, persistencia de datos (SQL/Hibernate) y administración de sistemas.
 
 ---
 
@@ -48,7 +48,7 @@ Soy un **Desarrollador de Software** graduado en el Grado Superior de DAM (Desar
 A continuación, algunos de los desarrollos más relevantes en los que he trabajado:
 
 ### 1. 🐾 VetNow (Proyecto Fin de Grado)
-*   **Descripción:** Aplicación móvil multiplataforma diseñada para el sector veterinario que conecta a usuarios con clínicas y facilita la gestión de sus mascotas.
+*   **Descripción:** Aplicación móvil multiplataforma diseñada para el sector veterinario que actua como intermediario entre clínicas veterinarias y propietarios de mascotas, facilitando la busqueda de clínicas, reserva de citas y la gestión de sus mascotas para el lado de los propietarios de mascotas, por el otro lado, facilitando la gestión de citas y expedientes médicos para las clínicas veterinarias.
 *   **Stack:** Flutter, Supabase.
 *   **Características Clave:** 
     *   Integración de servicios de ubicación y geolocalización para la búsqueda de clínicas.
@@ -57,8 +57,8 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
     *   Módulo de autenticación segura implementado a través de Supabase Auth.
 *   🔗 [Código en GitHub](https://github.com/RobertoLeahu/VetNow)
 
-### 2. 💳 Sistema de Transacciones Financieras y Gestión de Proyectos (SEIDOR)
-*   **Descripción:** Sistema de Transacciones Financieras.
+### 2. 💳 Sistema de Procesamiento de Transacciones Financieras
+*   **Descripción:** API REST backend que simula un sistema de procesamiento de transacciones financieras, especializada en el procesamiento asíncrono y concurrente de transferencias financieras individuales y masivas.
 *   **Stack:** Java, Spring Boot, H2 Database.
 *   **Características Clave:**
     *   Lógica de negocio robusta orientada al manejo seguro de datos sensibles y trazabilidad mediante logs.
@@ -67,15 +67,24 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
     *   Motor de Fraude y Algoritmos de Grafos para el rechazo automático de operaciones sospechosas y detección de transacciones cíclicas.
 *   🔗 [Código en GitHub](https://github.com/RobertoLeahu/Sistema-de-Procesamiento-de-Transacciones-Financieras.git)
 
+### 3. 🌦️ Weather App — Aplicación del Clima
+*   **Descripción:** Aplicación web estática que permite consultar las condiciones meteorológicas actuales, así como pronósticos diarios y por horas para cualquier ciudad del mundo. Funciona de manera directa en el navegador de forma fluida y sin dependencias externas pesadas.
+*   **Stack:** HTML5, CSS3, JavaScript Asíncrono (Módulos ES), Open-Meteo API (clima y geocodificación), Nominatim OpenStreetMap API (geocodificación inversa).
+*   **Características Clave:**
+    *   **Geolocalización y Búsqueda:** Detección automática de ubicación y buscador con autocompletado.
+    *   **Pronóstico Completo:** Datos en tiempo real, predicción de 7 días y desglose por horas.
+    *   **Internacionalización:** Interfaz bilingüe (EN/ES) y conversión de unidades (métrico/imperial).
+    *   **UX/Resiliencia:** Diseño *responsive* con control de estados de carga y gestión de errores.
+*   🔗 [Código en GitHub](https://github.com/tu-usuario/weather-app)
+
 ---
 
-## 🤝 Conectemos
+## 🤝 Contactemos
 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-leahu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertooleahu@gmail.com)
+* ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) <kbd>[linkedin.com/in/roberto-leahu](https://linkedin.com/in/roberto-leahu)</kbd>
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) <kbd>[robertooleahu@gmail.com](mailto:robertooleahu@gmail.com)</kbd>
 
 ---
 <p align="center">
-  <i>Diseñado por Roberto Alexandru Leahu. ¡Gracias por visitar mi perfil! 😊</i>
+  <i>¡Gracias por visitar mi perfil!</i>
 </p>
