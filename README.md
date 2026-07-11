@@ -1,8 +1,8 @@
 # ¡Hola mundo! 👋 Soy Roberto Alexandru Leahu
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rol-Desarrollador%20Backend%20%2F%20Multiplataforma-blue?style=for-the-badge&logo=github" alt="Rol">
-  <img src="https://img.shields.io/badge/Ubicación-Valdemoro%2C%20Madrid-green?style=for-the-badge" alt="Ubicación">
+  <img src="https://img.shields.io/badge/Rol-Desarrollador%20Backend%20%2F%20Multiplataforma-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Rol">
+  <img src="https://img.shields.io/badge/Ubicación-Madrid%2C%20España-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación">
 </p>
 
 ---
@@ -13,33 +13,45 @@ Soy un **Desarrollador de Software Backend** graduado en el Grado Superior de DA
 
 - **Actualmente enfocado en:** Mejorar mis habilidades de arquitectura de software, optimización de bases de datos y desarrollo backend.
 - **Aprendiendo continuamente:** Explorando arquitecturas orientadas a eventos mediante el uso de RabbitMQ como broker de mensajería y la contenerización de microservicios con Docker.
-- **Pregúntame sobre:** Java, Spring Boot, persistencia de datos (SQL/Hibernate) y administración de sistemas.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Habilidades Digitales
 
-### ⚙️ Backend y Bases de Datos
+## 🛠️ Habilidades Digitales y Tecnologías
+
+### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧱 Frameworks y Librerías
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A153?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-59666C?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📱 Desarrollo Móvil y Frontend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Sistemas e Infraestructura
+### 🧰 Herramientas e Infraestructura
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Gestión de Redes](https://img.shields.io/badge/Gestión_de_Redes-4B5563?style=for-the-badge)
 
 ---
 
