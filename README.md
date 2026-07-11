@@ -16,8 +16,6 @@ Soy un **Desarrollador de Software Backend** graduado en el Grado Superior de DA
 
 ---
 
-## 🛠️ Tecnologías y Habilidades Digitales
-
 ## 🛠️ Habilidades Digitales y Tecnologías
 
 ### 💻 Lenguajes
