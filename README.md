@@ -12,7 +12,7 @@
 Soy un **Desarrollador de Software Backend** graduado en el Grado Superior de DAM (Desarrollo de Aplicaciones Multiplataforma). Cuento con experiencia práctica en el diseño y despliegue de aplicaciones robustas utilizando el ecosistema **Java y Spring**, así como soluciones móviles e integraciones de APIs eficientes. Mi trasfondo técnico en sistemas y redes me permite aportar una visión global en todo el ciclo de desarrollo y despliegue.
 
 - **Actualmente enfocado en:** Mejorar mis habilidades de arquitectura de software, optimización de bases de datos y desarrollo backend.
-- **Aprendiendo continuamente:** Explorando arquitecturas orientadas a eventos mediante el uso de RabbitMQ como broker de mensajería y la contenerización de microservicios con Docker.
+- **Aprendiendo continuamente:** Explorando arquitecturas orientadas a eventos mediante el uso de RabbitMQ como broker de mensajería, contenerización de microservicios con Docker y servicios en la nube de AWS.
 
 ---
 
