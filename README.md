@@ -76,7 +76,7 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
   * Autenticación *stateless* con JWT, cifrado de contraseñas mediante BCrypt y flujo de registro con activación de cuenta por correo electrónico.
   * Optimización de lecturas en el catálogo de productos y categorías mediante caché distribuida con Redis.
   * Documentación interactiva con Swagger UI (springdoc OpenAPI) e infraestructura contenerizada con Docker Compose.
-* 🔗 [Código en GitHub](https://github.com/tu-usuario/e-commerce-api)
+* 🔗 [Código en GitHub](https://github.com/RobertoLeahu/e-commerce-api-rest)
 
 ### 3. 💳 Sistema de Procesamiento de Transacciones Financieras
 *   **Descripción:** API REST backend que simula un sistema de procesamiento de transacciones financieras, especializada en el procesamiento asíncrono y concurrente de transferencias financieras individuales y masivas.
