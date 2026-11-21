@@ -67,7 +67,18 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
     *   Módulo de autenticación segura implementado a través de Supabase Auth.
 *   🔗 [Código en GitHub](https://github.com/RobertoLeahu/VetNow)
 
-### 2. 💳 Sistema de Procesamiento de Transacciones Financieras
+### 2. 🛒 API REST de E-Commerce
+
+* **Descripción:** API REST backend para la gestión de un e-commerce, enfocada en la autenticación de cuentas, administración de usuarios, perfiles y direcciones, y gestión de catálogo de productos y categorías.
+* **Stack:** Java 17, Spring Boot 4.1.0, Spring Security, PostgreSQL 16, Redis 7.2, JWT, OpenAPI (Swagger) y Docker.
+* **Características Clave:**
+  * Arquitectura en capas desacoplada (Controllers, Services, Repositories, DTOs y Mappers) con validación de entrada (`Bean Validation`) y manejo global de excepciones.
+  * Autenticación *stateless* con JWT, cifrado de contraseñas mediante BCrypt y flujo de registro con activación de cuenta por correo electrónico.
+  * Optimización de lecturas en el catálogo de productos y categorías mediante caché distribuida con Redis.
+  * Documentación interactiva con Swagger UI (springdoc OpenAPI) e infraestructura contenerizada con Docker Compose.
+* 🔗 [Código en GitHub](https://github.com/tu-usuario/e-commerce-api)
+
+### 3. 💳 Sistema de Procesamiento de Transacciones Financieras
 *   **Descripción:** API REST backend que simula un sistema de procesamiento de transacciones financieras, especializada en el procesamiento asíncrono y concurrente de transferencias financieras individuales y masivas.
 *   **Stack:** Java, Spring Boot, H2 Database.
 *   **Características Clave:**
@@ -76,16 +87,6 @@ A continuación, algunos de los desarrollos más relevantes en los que he trabaj
     *   Concurrencia Avanzada Anti-Deadlocks para mitigar interbloqueos en transacciones simultáneas.
     *   Motor de Fraude y Algoritmos de Grafos para el rechazo automático de operaciones sospechosas y detección de transacciones cíclicas.
 *   🔗 [Código en GitHub](https://github.com/RobertoLeahu/Sistema-de-Procesamiento-de-Transacciones-Financieras.git)
-
-### 3. 🌦️ Weather App — Aplicación del Clima
-*   **Descripción:** Aplicación web estática que permite consultar las condiciones meteorológicas actuales, así como pronósticos diarios y por horas para cualquier ciudad del mundo. Funciona de manera directa en el navegador de forma fluida y sin dependencias externas pesadas.
-*   **Stack:** HTML5, CSS3, JavaScript Asíncrono (Módulos ES), Open-Meteo API (clima y geocodificación), Nominatim OpenStreetMap API (geocodificación inversa).
-*   **Características Clave:**
-    *   **Geolocalización y Búsqueda:** Detección automática de ubicación y buscador con autocompletado.
-    *   **Pronóstico Completo:** Datos en tiempo real, predicción de 7 días y desglose por horas.
-    *   **Internacionalización:** Interfaz bilingüe (EN/ES) y conversión de unidades (métrico/imperial).
-    *   **UX/Resiliencia:** Diseño *responsive* con control de estados de carga y gestión de errores.
-*   🔗 [Código en GitHub](https://github.com/tu-usuario/weather-app)
 
 ---
 
